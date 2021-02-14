@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Delegate Invoke\Delegate Invoke\bin\Debug\Delegate Invoke.exe.config
+C:\Users\Admin\source\repos\Delegate Invoke\Delegate Invoke\bin\Debug\Delegate Invoke.exe
+C:\Users\Admin\source\repos\Delegate Invoke\Delegate Invoke\bin\Debug\Delegate Invoke.pdb
+C:\Users\Admin\source\repos\Delegate Invoke\Delegate Invoke\obj\Debug\Delegate Invoke.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Delegate Invoke\Delegate Invoke\obj\Debug\Delegate Invoke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Delegate Invoke\Delegate Invoke\obj\Debug\Delegate Invoke.exe
+C:\Users\Admin\source\repos\Delegate Invoke\Delegate Invoke\obj\Debug\Delegate Invoke.pdb
